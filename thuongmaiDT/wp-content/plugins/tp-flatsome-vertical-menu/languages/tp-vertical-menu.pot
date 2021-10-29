@@ -1,0 +1,90 @@
+# Copyright (C) 2021 TP Vertical Menu
+# This file is distributed under the same license as the TP Vertical Menu package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TP Vertical Menu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/class-tp-vertical-menu.php:110
+msgid "☰ TP Vertical Menu"
+msgstr ""
+
+#: inc/class-tp-vertical-menu.php:121, inc/options-header-tp-vertical-menu.php:13
+msgid "TP Vertical Menu"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:42
+msgid "Icon Position"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:47
+msgid "Left"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:48
+msgid "Right"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:58
+msgid "Title"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:71
+msgid "Hide Title on Mobile"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:82
+msgid "Event"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:86
+msgid "Hover"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:87
+msgid "Click"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:98
+msgid "Auto show menu in Home page"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:110
+msgid "Hide Submenu on Mobile"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:122
+msgid "Display Submenu at top"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:133
+msgid ""
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:144
+msgid "Width"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:157
+msgid "Submenu Width"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:171
+msgid "Background Color"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:184
+msgid "Title Color"
+msgstr ""
+
+#: inc/options-header-tp-vertical-menu.php:197
+msgid "Icon Color"
+msgstr ""
