@@ -1,0 +1,230 @@
+2021-11-27T13:00:02+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:88
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\page-full-width.php(6): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 88
+
+2021-11-27T13:35:49+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:80
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 80
+
+2021-11-27T13:50:02+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:81
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 81
+
+2021-11-27T13:50:50+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:88
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 88
+
+2021-11-27T13:55:11+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:88
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 88
+
+2021-11-27T13:59:02+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:85
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 85
+
+2021-11-27T13:59:10+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:85
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\woocommerce\single-product.php(22): get_header('shop')
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 85
+
+2021-11-27T13:59:15+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:85
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\woocommerce\single-product.php(22): get_header('shop')
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 85
+
+2021-11-27T13:59:16+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:85
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\woocommerce\single-product.php(22): get_header('shop')
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 85
+
+2021-11-27T13:59:17+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:85
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\woocommerce\single-product.php(22): get_header('shop')
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 85
+
+2021-11-27T14:05:22+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:80
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 80
+
+2021-11-27T14:09:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:70
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 70
+
+2021-11-27T14:10:51+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:79
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 79
+
+2021-11-27T14:12:10+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:79
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 79
+
+2021-11-27T14:13:07+00:00 CRITICAL syntax error, unexpected end of file in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 146
+
+2021-11-27T14:15:54+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:74
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\index.php(1): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 74
+
+2021-11-27T14:19:43+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:84
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\page-full-width.php(6): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 84
+
+2021-11-27T14:19:59+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:84
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\page-full-width.php(6): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 84
+
+2021-11-27T14:20:09+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:84
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\page-full-width.php(6): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 84
+
+2021-11-27T14:21:58+00:00 CRITICAL Uncaught Error: Call to undefined function hk_get_thumb() in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php:80
+Stack trace:
+#0 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(770): require_once()
+#1 C:\xamppd\htdocs\wpbanhang\wp-includes\template.php(716): load_template('C:\\xamppd\\htdoc...', true, Array)
+#2 C:\xamppd\htdocs\wpbanhang\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\page-full-width.php(6): get_header()
+#4 C:\xamppd\htdocs\wpbanhang\wp-includes\template-loader.php(106): include('C:\\xamppd\\htdoc...')
+#5 C:\xamppd\htdocs\wpbanhang\wp-blog-header.php(19): require_once('C:\\xamppd\\htdoc...')
+#6 C:\xamppd\htdocs\wpbanhang\index.php(17): require('C:\\xamppd\\htdoc...')
+#7 {main}
+  thrown in C:\xamppd\htdocs\wpbanhang\wp-content\themes\wptem\header.php on line 80
+
