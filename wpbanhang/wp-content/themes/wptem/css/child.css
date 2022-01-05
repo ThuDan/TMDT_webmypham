@@ -49,19 +49,23 @@ a.read-more:hover {
     text-align: center;
 }
 h1.single-title{
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 500;
     color: #DC143C;
     line-height: 30px;
 }
 .meta-single{
-    padding-bottom: 10px;
-    margin-bottom: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
     border-bottom: 1px solid #ededed;
 }
 .meta-single span{
     display: inline-block;
     margin-right: 35px;
+}
+.single-content {
+    font-size: 17px;
+    line-height: 25px;
 }
 img {
     display: block;
@@ -173,4 +177,8 @@ p#billing_last_name_field {
 .product-description_productDescription__SX-hV {
     font-size: 15px;
     font-weight: 100;
+}
+p.title {
+    font-size: 20px;
+    color: #da2168;
 }

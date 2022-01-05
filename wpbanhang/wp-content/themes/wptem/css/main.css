@@ -14,3 +14,8 @@ input.wpcf7-form-control.has-spinner.wpcf7-submit {
     background-color: #da2e38;
     color: #ededed;
 }
+.btn-primary {
+    color: #fff;
+    background-color: #f82262;
+    border-color: #f82262;
+}
